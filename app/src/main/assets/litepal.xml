@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <!--数据库名-->
+    <dbname value="UserInfo"></dbname>
+    <!--数据库版本号-->
+    <version value="2"></version>
+    <!--映射模型，注意一定要使用完整的类名-->
+    <list>
+        <mapping class="com.shenkangyun.pregnantwomen.DBFolder.User" />
+    </list>
+</litepal>
